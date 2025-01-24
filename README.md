@@ -17,6 +17,20 @@ https://www.nslookup.io/
 
 2a10:50c0::ad2:ff
 
+# Block list
+
+https://www.reddit.com/r/pihole/comments/18ogxjt/places_to_get_blocklists/?rdt=51650
+
+https://oisd.nl/setup/ublockorigin
+
+https://firebog.net
+
+https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#light
+
+
+# Test blokování
+
+https://canyoublockit.com
 
 
 ## Raspberry Pi 3 Model B+
