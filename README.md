@@ -1,6 +1,9 @@
 # blocking
 
 https://adguard-dns.io/kb/cs/general/dns-providers/
+
+# Zjištění DNS
+
 https://www.nslookup.io/
 
 ## Adguard dns:
